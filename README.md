@@ -35,23 +35,23 @@ git clone https://github.com/hemannshu/WeatherApp.git
 
 3. Open ```index.html``` file in your preffered browser.
 
-## Usage:<br>
+## Usage:
 
 1.Enter the name of a city or a zip code in the search bar.
 2.Hit Enter to fetch the weather data.
 3.View the current weather conditions for the specified location.
 
 
-## Techonologies Used:<br>
+## Techonologies Used:
 
 1.HTML
 2.CSS
 3.JavaScript
 
-## Acknowledgments:<br>
+## Acknowledgments:
 1.OpenWeatherMap API for providing weather data.
 2.Icons used in the project were sourced from Iconfinder.
 
-## License:<br>
+## License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
